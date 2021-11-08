@@ -1,3 +1,11 @@
+
+# dockerize - amazee.io fork
+
+This version of dockerize has been forked from the original package to add a multi-arch Dockerfile build stage for ease of use.
+
+The original version is still available at https://github.com/jwilder/dockerize
+
+
 dockerize ![version v0.6.1](https://img.shields.io/badge/version-v0.6.1-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 =============
 
